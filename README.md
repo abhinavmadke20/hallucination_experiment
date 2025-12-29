@@ -57,3 +57,8 @@ Example:
   "answer": "Canberra",
   "difficulty": "easy"
 }
+
+---
+
+## Author
+Abhinav Madke
