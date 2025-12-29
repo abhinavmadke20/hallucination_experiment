@@ -1,15 +1,13 @@
 # Evaluating Self-Verification for Reducing LLM Hallucinations
 
 ## Overview
-Large Language Models (LLMs) are known to produce **hallucinations**, they are confident but factually incorrect statements.  
+Large Language Models (LLMs) are known to produce **hallucinations**, they are confident but factually incorrect statements provided by LLMs.
 
-A commonly proposed mitigation is **self-verification**, where the model is asked to review and verify its own answer before finalizing it.
+This repository is part of an ongoing effort to **research and experiment with techniques that improve or reduce AI hallucinations** through small, controlled evaluations.
 
+This repo documents **Experiment #1**, which evaluates a commonly proposed mitigation strategy: **self-verification**, where a model is asked to review and verify its own answer before finalizing it.
 
-This project evaluates a simple question:
-> **Does adding an explicit self-verification step reduce factual hallucinations in LLM responses?**
-
-Rather than training models, this work focuses on **behavioral evaluation** through controlled experiments and quantitative analysis.
+The goal is not to build a product or train a model, but to **understand model behavior through careful evaluation**.
 
 ---
 ## Research Question
