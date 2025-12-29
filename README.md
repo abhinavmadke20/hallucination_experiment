@@ -57,6 +57,7 @@ Example:
   "answer": "Canberra",
   "difficulty": "easy"
 }
+```
 
 ---
 
